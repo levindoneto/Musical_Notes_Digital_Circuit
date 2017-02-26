@@ -1,4 +1,6 @@
-# Musical-Notes-Digital-Circuit-MNDC-
+# Musical Notes Digital Circuit (MNDC)
+__Autores:__ Felipe Tormes e Levindo Neto
+
 Circuito em VHDL que faz emitir sons em 8 frequências diferentes, de acordo com o posicionamento das chaves da placa FPGA.
 
 ### Funcionamento do circuito
